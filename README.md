@@ -4,6 +4,9 @@
 Brightness and volume control for the Microsoft Surface Laptop SE
 running Arch Linux with KDE Plasma.
 
+**Brightness control was inspired by Amine Abdz's KDE Better Brightness Controls**
+https://github.com/mimminou/KDE_Better_Brightness_Controls
+
 ------------------------------------------------------------------------
 
 ## Overview
